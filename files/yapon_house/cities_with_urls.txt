@@ -1,0 +1,6 @@
+Омск>https://omsk.yapdomik.ru
+Ачинск>https://achinsk.yapdomik.ru
+Бердск>https://berdsk.yapdomik.ru
+Красноярск>https://krsk.yapdomik.ru
+Новосибирск>https://nsk.yapdomik.ru
+Томск>https://tomsk.yapdomik.ru

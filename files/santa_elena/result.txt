@@ -1,0 +1,367 @@
+[
+    {
+        "name": "Centro Comercial Mayorca  Etapa 1",
+        "address": " Medellín,  Calle 51 Sur # 48 – 57 Local 324 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4906 "
+        ],
+        "working_hours": [
+            "Lunes a sábado: 8:30 a.m– 7:30",
+            "Domingos: 11:30 a.m– 7:30"
+        ]
+    },
+    {
+        "name": "Centro Comercial MayorcaEtapa 2",
+        "address": " Medellín,  Calle 51 Sur # 48 – 57 Local 0910 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4910 "
+        ],
+        "working_hours": [
+            "Lunes a sábado: 8:30 a.m– 7:30",
+            "Domingos: 11:30 a.m– 7:30"
+        ]
+    },
+    {
+        "name": "Centro Comercial Oviedo",
+        "address": " Medellín,  Cra. 43a # 6 Sur – 15 Local 1324 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4902 "
+        ],
+        "working_hours": [
+            "Lunes a sábado: 8:30 a.m– 7:30",
+            "Domingos: 11:30 a.m– 7:30"
+        ]
+    },
+    {
+        "name": "Centro Comercial Unicentro ",
+        "address": " Medellín,  Cra 66 B # 34 A 76Local 200 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4907 "
+        ],
+        "working_hours": [
+            "Lunes a sábado: 8:30 a.m– 8:30",
+            "Domingos: 10:30 a.m– 7:30"
+        ]
+    },
+    {
+        "name": "Mall La Frontera ",
+        "address": " Medellín,  Cra. 43a # 18 Sur – 166Local 108 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4903 "
+        ],
+        "working_hours": [
+            "Lunes a sábado: 7:00 a.m– 8:30",
+            "Domingos: 8:30 a.m– 5:00"
+        ]
+    },
+    {
+        "name": "Mall Gran Vía",
+        "address": " Medellín,  Diag. 75 B # 6-10Local 143 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4915 "
+        ],
+        "working_hours": [
+            "Lunes a sábado: 8:30 a.m– 8:30",
+            "Domingos: 9:30 a.m– 6:30",
+            "."
+        ]
+    },
+    {
+        "name": "Universidad Pontificia Bolivariana",
+        "address": " Medellín,  Circular 1 # 70 – 01Boulevar Biblioteca ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4911 "
+        ],
+        "working_hours": [
+            "Lunes a viernes: 6:30 a.m– 8:30",
+            "Sábados: 7:30 a.m– 12:30"
+        ]
+    },
+    {
+        "name": "Universidad EAFIT",
+        "address": " Medellín,  Cra. 49 # 7 Sur 50 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 2619500 ext 9761 "
+        ],
+        "working_hours": [
+            "Lunes a viernes: 7:30 a.m– 7:30",
+            "Sábados: 7:30 a.m– 11:30 a.m"
+        ]
+    },
+    {
+        "name": "Terminal del Sur",
+        "address": " Medellín,  Cra. 65 # 8 B 91Local 146 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4905 "
+        ],
+        "working_hours": [
+            "Lunes a sábado: 7:30 a.m– 6:30",
+            "Domingos: 8:30 a.m– 5:30"
+        ]
+    },
+    {
+        "name": "Aeropuerto Olaya Herrera",
+        "address": " Medellín,  Cra. 65a # 13 – 157Local 27 – 28 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4904 "
+        ],
+        "working_hours": [
+            "Lunes a sábado: 4:30 a.m– 6:00",
+            "Domingos: 6:30 a.m– 5:00"
+        ]
+    },
+    {
+        "name": "Aeropuerto  Internacional José María Córdoba",
+        "address": " Medellín,  Entrada 4, Sala 9 Frente al counter de Avianca ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4914 "
+        ],
+        "working_hours": [
+            "Prestamos servicio 24 horas."
+        ]
+    },
+    {
+        "name": "Terminal del Norte",
+        "address": " Medellín,  Carrera. 64c # 78 – 580Local 490 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4908 "
+        ],
+        "working_hours": [
+            "Lunes a sábado: 7:00 a.m– 8:30",
+            "Domingos: 8:30 a.m– 7:30"
+        ]
+    },
+    {
+        "name": "Parque el Poblado",
+        "address": " Medellín,  Carrera 43A # 8 – 36 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4901 "
+        ],
+        "working_hours": [
+            "Lunes a sábado: 7:30 a.m– 7:00",
+            "Domingos: 9:30 a.m– 3:30"
+        ]
+    },
+    {
+        "name": "Estación Ferrocarril",
+        "address": " Medellín,  Carrera 52 # 43 – 31 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4913 "
+        ],
+        "working_hours": [
+            "Lunes a viernes: 7:30 a.m– 5:30",
+            "Sábado: 7:30 a.m– 12:00",
+            " Domingos y festivos: cerrado"
+        ]
+    },
+    {
+        "name": "Viva Laureles",
+        "address": " Medellín,  Carrera 81 # 37 – 100 Local 005 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 3256600 ext 4912 "
+        ],
+        "working_hours": [
+            "Lunes a sábado: 8:00 a.m– 8:00",
+            "Domingos y festivos: 10:30 a.m– 7:00"
+        ]
+    },
+    {
+        "name": "Centro Comercial El Retiro",
+        "address": " Bogotá, Calle 82 11-75 Local 124 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            "7956010 ext 1901 "
+        ],
+        "working_hours": [
+            "Lunes a Sábado: 9:00 am/ 8:00",
+            "Domingos y festivos:  9:30 am/ 7:00"
+        ]
+    },
+    {
+        "name": "Centro Comercial Plaza De Las Américas",
+        "address": " Bogotá,  Cra. 71d # 6 – 94 Sur Local 1908 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 7956010 ext 1920 "
+        ],
+        "working_hours": [
+            "Lunes a Sábado: 9:00 am/ 8:00",
+            "Domingos y Festivos – 9:30 am/ 7:00"
+        ]
+    },
+    {
+        "name": "Centro Comercial  Hacienda Santa Bárbara",
+        "address": " Bogotá,  Av. Cra. 7 # 115 – 60 Local 220 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 7956010 ext 1904 "
+        ],
+        "working_hours": [
+            "Lunes a Sábado: 9:00 a.m/ 7:30",
+            "Domingos y Festivos: 9:30 a.m/ 6:00"
+        ]
+    },
+    {
+        "name": "Calle 119",
+        "address": " Bogotá,  Calle 119 # 14 – 10 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 7956010 ext 1911 "
+        ],
+        "working_hours": [
+            "Lunes a Sábado: 8:00 am/ 6:30",
+            "Domingo y festivos: 8:00 am./ 6:00",
+            "."
+        ]
+    },
+    {
+        "name": "Ktronix Salitre",
+        "address": " Bogotá,  Cra 68b # 25 B – 80 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 7956010 ext 1903 "
+        ],
+        "working_hours": [
+            "Lunes a Sábado: 8:30 am/ 7:30",
+            "Domingos y festivos: 8:30 am/ 6:00"
+        ]
+    },
+    {
+        "name": "Calle 95",
+        "address": " Bogotá,  Calle 95 # 13 – 55 ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 7956010 ext 1912 "
+        ],
+        "working_hours": [
+            "Lunes a Sábado: 8:30 am/ 6:00",
+            "Domingos y festivos: 9:30 am/ 6:00"
+        ]
+    },
+    {
+        "name": "Aeropuerto Internacional El Dorado  - Puente Aéreo",
+        "address": " Bogotá,  Terminal Puente Aéreo ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 4147829 "
+        ],
+        "working_hours": [
+            "Lunes a domingos incluye festivos: 6:30 am/ 9:30"
+        ]
+    },
+    {
+        "name": "Aeropuerto Internacional El Dorado -\nMuelle Sur",
+        "address": " Bogotá,  Av. El Dorado # 113 – 85Muelle Nacional Sur – Segundo Piso ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 7956010 ext 1906 "
+        ],
+        "working_hours": [
+            "Prestamos servicio 24 horas."
+        ]
+    },
+    {
+        "name": "Aeropuerto Internacional El Dorado -\nMuelle Norte",
+        "address": " Bogotá,  Aeropuerto El Dorado – Terminal 1 muelle Nacional Norte ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 7956010 Ext 1910 "
+        ],
+        "working_hours": [
+            "Prestamos servicio 24 horas."
+        ]
+    },
+    {
+        "name": "Aeropuerto Internacional \nEl Dorado - Salidas Internacionales\n",
+        "address": " Bogotá,  Av. El Dorado # 113 – 85Salida Internacional – Segundo Piso ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 7956010 Ext 1908 "
+        ],
+        "working_hours": [
+            "Prestamos servicio las 24 horas."
+        ]
+    },
+    {
+        "name": "Aeropuerto Internacional El Dorado - Hall Público",
+        "address": " Bogotá,  Aeropuerto El Dorado – Llegadas nacionales ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " 7956010 Ext 1907 "
+        ],
+        "working_hours": [
+            "Prestamos servicio 24 horas."
+        ]
+    },
+    {
+        "name": "Aeropuerto Internacional Los Garzones",
+        "address": " Montería,  ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " "
+        ],
+        "working_hours": []
+    },
+    {
+        "name": "Aeropuerto Internacional Matecaña – Pereira, Risaralda",
+        "address": " Pereira,  Km 4 Vía Cerritos, Local 59   ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " "
+        ],
+        "working_hours": []
+    },
+    {
+        "name": "Aeropuerto Internacional Ernesto Cortissoz – Soledad, Barranquilla",
+        "address": " Barranquilla,  ",
+        "latlon": null,
+        "phones": [
+            "604 325 6600 ext 4000",
+            " "
+        ],
+        "working_hours": []
+    }
+]

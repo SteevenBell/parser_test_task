@@ -1,0 +1,20 @@
+Aguascalientes>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:19
+Baja California>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:25
+Chihuahua>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:26
+Ciudad de México>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:16
+Ciudad de México - Centro>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:232
+Ciudad de México - Norte>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:231
+Ciudad de México - Oriente>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:233
+Ciudad de México - Poniente>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:234
+Ciudad de México - Sur>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:235
+Coahuila>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:23
+Estado de México>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:237
+Guanajuato>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:20
+Jalisco>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:27
+Nuevo León>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:22
+Puebla>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:18
+Queretaro>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:17
+Quintana Roo>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:39
+San Luis Potosi>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:21
+Sonora>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:24
+Yucatán>https://dentalia.com/clinica/?jsf=jet-engine:clinicas-archive&tax=estados:29
